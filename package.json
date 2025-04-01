@@ -1,0 +1,27 @@
+{
+  "name": "mongo-access",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/proxy.js",
+  "scripts": {
+    "start": "echo 'No start script needed for Vercel deployment'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepseekee/mongo-access.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/deepseekee/mongo-access/issues"
+  },
+  "homepage": "https://github.com/deepseekee/mongo-access#readme",
+  "dependencies": {
+    "mongodb": "^6.15.0"
+  },
+  "engines": {
+    "node": ">=22.x"
+  }
+}
